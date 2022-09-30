@@ -1,2 +1,2 @@
 #!/bin/bash
-echo pwd /Users/mayra_ypg/Holberton/holbertonschool-shell/basics
+pwd
