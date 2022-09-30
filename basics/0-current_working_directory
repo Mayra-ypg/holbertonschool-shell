@@ -1,2 +1,2 @@
 #!/bin/bash
-echo pwd /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:0-current_working_directory:directory:0-current_working_directory
+echo pwd /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:0-current_working_directory
