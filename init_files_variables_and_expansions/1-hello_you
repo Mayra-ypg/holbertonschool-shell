@@ -1,2 +1,2 @@
 #!/bin/bash
-ls hello mayra_ypg
+echo hello root
