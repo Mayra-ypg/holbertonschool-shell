@@ -1,0 +1,1 @@
+Accion de cada comando
